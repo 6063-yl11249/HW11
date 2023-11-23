@@ -1,5 +1,6 @@
 # HW11
  *Drawing of the Finite State Machine.*  
+![fsm](./fsm.jpg)
 
  *Description of the correct steps.*  
 1. Press button 0.   
@@ -7,4 +8,4 @@
 3. Turn potentiometer all the way to the right.  
 
  *A schematic drawing of the circuit.*   
-
+![circuit](./circuit.jpg)
